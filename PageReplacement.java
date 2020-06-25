@@ -1,16 +1,12 @@
 /*
-NAME: VANSHIKA BANSAL
-ROLL NO.: 1710110374
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package osgla2;
+* Add your package name
+*/
 
 /**
  *
  * @author VANSHIKA
  */
+
 import java.awt.Color;
 import java.awt.FlowLayout;
 import java.awt.GridLayout;
