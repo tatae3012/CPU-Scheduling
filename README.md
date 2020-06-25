@@ -6,7 +6,7 @@
 
   <table>
     <tr>
-     <td><img src="/ScreenShots/1.png"></td>
+     <td><img src="/ScreenShots/1.jpg"></td>
     </tr>
   </table>
   
@@ -14,6 +14,6 @@
 
   <table>
     <tr>
-     <td><img src="/ScreenShots/2.png"></td>
+     <td><img src="/ScreenShots/2.jpg"></td>
     </tr>
   </table>
