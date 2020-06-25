@@ -36,11 +36,11 @@ The output screen contains the Gantt chart, waiting time and turnaround time.
 
 ### Overview 
 
-The following Page Replacement algorithms are implemented and their performances compared using Java:<br\>
+The following Page Replacement algorithms are implemented and their performances compared using Java:<br/>
 
-a. First In First Out (FIFO)<br\>
-b. Optimal Page Replacement<br\>
-c. Least Recently Used (LRU)<br\>
+a. First In First Out (FIFO)<br/>
+b. Optimal Page Replacement<br/>
+c. Least Recently Used (LRU)<br/>
 
 The number of page faults are calculated by taking different number of frames (3,4,5,6 and 7 in the examples below). 
 
