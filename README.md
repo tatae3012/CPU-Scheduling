@@ -4,16 +4,16 @@
 
 ### Overview 
 
-The following CPU scheduling algorithms are implemented using Java:
+The following CPU scheduling algorithms are implemented using Java:<br/>
 
-  a. FCFS
-  b. Preemptive SJF
-  c. Non-preemptive SJF
-  d. Preemptive Priority (lower the integer, higher the priority)
-  e. Non-Preemptive Priority (lower the integer, higher the priority)
-  f. Round Robin
+  a. FCFS<br/>
+  b. Preemptive SJF<br/>
+  c. Non-preemptive SJF<br/>
+  d. Preemptive Priority (lower the integer, higher the priority)<br/>
+  e. Non-Preemptive Priority (lower the integer, higher the priority)<br/>
+  f. Round Robin<br/>
   
-The input screen contains no. of processes (<=6), arrival time, burst time, priority, time quantum (for RoundRobin), checkboxes for algorithm selection and button for computation.
+The input screen contains no. of processes (<=6), arrival time, burst time, priority, time quantum (for RoundRobin), checkboxes for algorithm selection and button for computation.<br/>
 The output screen contains the Gantt chart, waiting time and turnaround time.
 
 ### Input Ex
@@ -35,6 +35,14 @@ The output screen contains the Gantt chart, waiting time and turnaround time.
 ## 2. Page Replacement Algorithms
 
 ### Overview 
+
+The following Page Replacement algorithms are implemented and their performances compared using Java:<br\>
+
+a. First In First Out (FIFO)<br\>
+b. Optimal Page Replacement<br\>
+c. Least Recently Used (LRU)<br\>
+
+The number of page faults are calculated by taking different number of frames (3,4,5,6 and 7 in the examples below). 
 
 ### Examples
 
@@ -71,4 +79,4 @@ The output screen contains the Gantt chart, waiting time and turnaround time.
   ## TO DOs
   
   * Improve the user interface.
-  * You can contribute by adding more system algorithms
+  * You can contribute by adding more system algorithms.
